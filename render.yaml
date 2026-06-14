@@ -7,6 +7,6 @@ services:
     startCommand: python main.py
     envVars:
       - key: ADMIN_PASSWORD
-        value: admin
+        value: R3n@Moh#2026!xQ7
       - key: SECRET_KEY
         generateValue: true
